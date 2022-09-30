@@ -34,6 +34,8 @@ namespace UserMaintenance
 
             };
             users.Add(u);
+
+            //listából törlés funkció
         }
 
         private void button2_MouseClick(object sender, MouseEventArgs e)
