@@ -42,7 +42,6 @@ namespace Value_at_risk
                                       select x)
                                         .ToList();
             MessageBox.Show(nyereségekRendezve[nyereségekRendezve.Count() / 5].ToString());
-
         }
 
         private void CreatePortfolio()
